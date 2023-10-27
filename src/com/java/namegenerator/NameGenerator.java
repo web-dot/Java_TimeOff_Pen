@@ -24,5 +24,22 @@ public class NameGenerator {
 		for(int i=0; i<10; i++) {
 			System.out.println(generateName());
 		}
+		
+		/**
+		 * example output: 
+		 * 
+		 * Creomaracure
+		 * Mjolairure
+		 * Jagzoirzur
+		 * Drakmiricred
+		 * Drakarker
+		 * Creoredmur
+		 * Zurcloarc
+		 * Mermirizur
+		 * Zedzoirzur
+		 * Morcramur
+		 * 
+		 * */
+		
 	}
 }
